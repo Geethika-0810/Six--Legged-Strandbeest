@@ -1,4 +1,4 @@
-# Strandbeest Walking Mechanism 🐾
+# Strandbeest Walking Mechanism 
 
 Inspired by Theo Jansen's kinetic sculptures, this project features a six-legged Strandbeest walking mechanism designed using CAD. The goal was to simulate a wind-powered walking system using mechanical linkages and phase-offset motion for stability.
 
